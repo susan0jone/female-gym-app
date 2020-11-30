@@ -49,11 +49,12 @@ class Nav extends Component {
               <div className="about-details">
                 <p>  WHY WE ARE</p>
                 <div>
-                  Lorem ipsum dolor sit amet,<br/>
-                  consectetur adipiscing elit. <br/>
-                  Cras tincidunt orci ut suscipit pretium.<br/>
-                  Class aptent taciti sociosqu ad litora torquent<br/>
-                  per conubia nostra, per inceptos himenaeos.
+                  Confidence & belief in yourself to succeed,
+                  Knowledge in health and fitness,
+                  To improve your mindset,
+                  To be a part of a super supportive community,
+                  To get the biggest bang for your buck (way affordable),
+                  To do it all without having to take supplements.
                 </div>
               </div>
             </div> 
@@ -61,11 +62,13 @@ class Nav extends Component {
              <div className="about-details">
                <p>  WHO WE ARE</p>
                <div>
-                 Lorem ipsum dolor sit amet,<br/>
-                 consectetur adipiscing elit. <br/>
-                 Cras tincidunt orci ut suscipit pretium.<br/>
-                 Class aptent taciti sociosqu ad litora torquent<br/>
-                 per conubia nostra, per inceptos himenaeos.
+                 <h2> Hey, I'm Susan.</h2> a co-founder of pegasus gym and also,
+                 Your Strength & Nutrition Queen.
+                 To us, being a woman means being able to 
+                 overcome your obsessive, perfectionist tendencies,
+                  and learn to stand in your power—regardless of a number
+                   on the scale. It means being grateful for movement, 
+                   listening to your body, and honoring it’s needs
                 </div>
               </div>
            </div>
@@ -73,11 +76,11 @@ class Nav extends Component {
              <div className="about-details">
                <p>HOW WE GET WE WANT</p>
                <div>
-                 Lorem ipsum dolor sit amet,<br/>
-                 consectetur adipiscing elit. <br/>
-                 Cras tincidunt orci ut suscipit pretium.<br/>
-                 Class aptent taciti sociosqu ad litora torquent<br/>
-                 per conubia nostra, per inceptos himenaeos.
+                 Health and fitness information that makes you feel great about yourself,
+                 Workout and nutrition information 
+                 that fits your life, and doesn't dominate it. finally,
+                 No deprivation, exhaustion, 
+                 or obsessive eating habits required.
                </div>
               </div>
             </div> 
@@ -85,27 +88,27 @@ class Nav extends Component {
           <div className = "program page" ref={this.programRef}>
             <div className = "program-heading">OUR WORKOUT PROGRAMS</div>
             <div className="program-content">
-              <p className="heading"> Lorem ipsum dolor sit amet</p>
+              <p className="heading"> Kettlebell Exercises for Beginners</p>
               <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>
-                Cras tincidunt orci ut suscipit pretium. 
-                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                No matter your fitness level or exercise history,
+               kettlebells are a versatile training tool for building
+                full-body strength and endurance
               </div>
             </div>
             <div  className="program-content">
-              <p className="heading"> Lorem ipsum dolor sit amet</p>
+              <p className="heading">Body Image Freedom</p>
               <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/>
-                Cras tincidunt orci ut suscipit pretium. 
-                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                Bust through negative beliefs, change your mindset,
+               and start feeling awesome in your own skin with this
+                information-packed, free 5-day course.
               </div>
             </div>
             <div  className="program-content">
-              <p className="heading"> Lorem ipsum dolor sit amet</p>
+              <p className="heading">Developing Grip Strength </p>
               <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/>
-                Cras tincidunt orci ut suscipit pretium. 
-                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                  While grip strength exercises are often overlooked,
+                 a strong grip will pay large dividends in your 
+                 strength and body work outtraining
               </div>
             </div>
          </div>
@@ -116,9 +119,9 @@ class Nav extends Component {
                Contact Us
              </div>
              <div>
-               <p>Location: (*Insert Location Here)</p>
-               <p>E-mail: (*Insert Email Here)</p>
-               <p>Phone Number: (*Insert Phone Number Here)</p>
+                 <p>Contact: 555-(0)-277</p>
+                 <p>Location: 64, prrivet drive, hollywood avenue</p>
+                 <p>Email: pegasusgym@yahoo.com</p>
              </div>
             </div>
           </div>

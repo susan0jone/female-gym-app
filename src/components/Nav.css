@@ -77,8 +77,8 @@ html, body {
 .home{
     background: linear-gradient(0deg, rgba(255, 79, 132, 0.5), rgba(0, 0, 0));
     width: 100%;
-    padding-top: 250px;
-    padding-bottom: 250px;
+    padding-top: 200px;
+    padding-bottom: 350px;
 }
 .about{
     background-image: linear-gradient(0deg, rgba(255, 79, 132, 0.5), rgba(143, 37, 69, 0.5)),url("media/gym.jpg"); ;

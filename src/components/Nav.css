@@ -205,7 +205,7 @@ html, body {
 
 
 
-@media only screen and (min-width : 900px) {
+@media only screen and (min-width : 1200px) {
     .navigation{
     
         scroll-behavior: smooth;

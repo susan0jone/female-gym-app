@@ -81,7 +81,6 @@ html, body {
     padding-bottom: 350px;
 }
 .about{
-    background-image: linear-gradient(0deg, rgba(255, 79, 132, 0.5), rgba(143, 37, 69, 0.5)),url("media/gym.jpg"); ;
     width: 100%;
     background-size: cover;
     padding-top: 80px;
@@ -151,7 +150,7 @@ html, body {
 .about-heading{
     padding-bottom: 30px;
     font-size: 33px;
-    color: white;
+    color:  #fe019a;;
     font-weight: bold;
 }
 .program div{

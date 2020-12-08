@@ -91,7 +91,7 @@ html, body {
 
 .program{
     width: 100%;
-    background: rgba(255, 0, 0, 0.6);
+    background: rgba(255, 79, 132, 0.5);
     transition : all 2s ease-in-out;
     margin-top: 10px;
     padding-top: 30px;
@@ -150,7 +150,7 @@ html, body {
 .about-heading{
     padding-bottom: 30px;
     font-size: 33px;
-    color:  #fe019a;;
+    color:  #0671b7;;
     font-weight: bold;
 }
 .program div{
